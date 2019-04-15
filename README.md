@@ -6,5 +6,5 @@ A joint Research Project about swarms coordination algorithm that can models def
 3) Studying the Poisson effect on stability of the swarm
 4) Autonomous Trajectory Planing in a Field of Static Obstacles 
 5) Coding & Simulation using Wolfram Mathematica
-6) A paper will be Published about this Research Project in upcoming months
+
 
